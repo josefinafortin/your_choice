@@ -1,0 +1,63 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.fitted.menu .item, .ui.fitted.menu .item .menu .item, .ui.menu .fitted.item{
+
+  padding: 11px;
+  color: #60d0e4;
+}
+
+ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.dropdown>.text {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Libre Baskerville', serif;
+
+}
+
+
+h2.ui.header {
+  font-size: 1.5rem;
+}
+
+.ui.button, .ui.buttons .button, .ui.buttons .or{
+  font-size: 1.5rem;
+}
+
+.ui.menu {
+  border: 0px;
+  border-radius: 0px;
+}
+
+body {
+  background-image: url("https://www.sugarfina.com/media/wysiwyg/modules/Module_8/module_8_desktop_1xq.jpg");
+  background-repeat: no-repeat;
+  background-position: right -5px bottom 58px;
+}
+
+.ui.segment{
+  background: none;
+}
+
+.ui.inverted.segment, .ui.primary.inverted.segment{
+  background: none;
+  color: none;
+}
+
+.footer-background {
+  background-color: #60d0e4;
+  padding: 50px 0 50px 0;
+  color: #FFFFFF;
+}
